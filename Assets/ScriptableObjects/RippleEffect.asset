@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02ed96edcd8cd5b45b7441272f85ebed, type: 3}
+  m_Name: RippleEffect
+  m_EditorClassIdentifier: 
+  OnSuccess: {fileID: 8300000, guid: dc6f5d7fba9cf9f45b0299b36487ab5b, type: 3}
+  OnFailure: {fileID: 8300000, guid: 308151926bf75a14898a3f873c9c5a1e, type: 3}
+  rippleEffect: {fileID: 3269141044905488566, guid: a54f1bfe360ea2e47ae1f9e9b176996d, type: 3}
+  boolChannel: {fileID: 11400000, guid: 69807b96366dc5243aba5750fc071023, type: 2}
+  vectorChannel: {fileID: 11400000, guid: c57b8b13ee7fe8c4c91ef0d1436c83ec, type: 2}
+  audioChannel: {fileID: 11400000, guid: 6ba91cc144a5614449c12bc041448147, type: 2}

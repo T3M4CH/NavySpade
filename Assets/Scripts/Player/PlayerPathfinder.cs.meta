@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e09c25b1adafa7b4bbe4ca5d6235b248
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vectorChannel: {fileID: 11400000, guid: c57b8b13ee7fe8c4c91ef0d1436c83ec, type: 2}
+  - boolChannel: {fileID: 11400000, guid: 69807b96366dc5243aba5750fc071023, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

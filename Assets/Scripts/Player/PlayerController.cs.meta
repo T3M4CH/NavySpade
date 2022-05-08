@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec992ed63ec84544ea26a2df8bfcb2ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerStats: {fileID: 11400000, guid: 4e391d59c797b514c97a2024a4dc7a39, type: 2}
+  - vectorChannel: {fileID: 11400000, guid: c57b8b13ee7fe8c4c91ef0d1436c83ec, type: 2}
+  - rippleSO: {fileID: 11400000, guid: e2cb9fc97775c38449eb94b90885d336, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
